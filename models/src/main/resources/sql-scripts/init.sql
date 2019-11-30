@@ -1,0 +1,2 @@
+insert into escooterorders (scooterid,totalhours,totalprice,kilometerspassed,pickuplocation,leavelocation,completed,timefrom,timeto) values (1,5.0,40,45.5,'Ljubljana','Maribor', TRUE,TIMESTAMP '2019-09-22 17:16:32', TIMESTAMP '2019-09-23 17:16:32');
+-- insert into escooter (nam,status,price,description,pickuplocation,leavelocation,created) values ('Jijiji','Free',4.5,'It is a very good e-scooter','Ljubljana','Maribor', TIMESTAMP '2019-09-22 17:16:32');
