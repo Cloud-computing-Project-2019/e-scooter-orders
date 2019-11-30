@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="e-scooter-orders-services" />
-        <module name="e-scooter-orders-lib" />
         <module name="e-scooter-orders-models" />
+        <module name="e-scooter-orders-lib" />
         <module name="e-scooter-orders-api" />
       </profile>
     </annotationProcessing>
