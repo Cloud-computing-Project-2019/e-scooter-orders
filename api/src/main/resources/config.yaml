@@ -9,7 +9,7 @@ kumuluzee:
       port: 8086
   datasources:
     - jndi-name: jdbc/EscooterOrdersDS
-      connection-url: jdbc:postgresql://localhost:5432/escooterorders
+      connection-url: jdbc:postgresql://127.0.0.1:5432/escooterorders
       username: dbuser
       password: postgres
       max-pool-size: 20

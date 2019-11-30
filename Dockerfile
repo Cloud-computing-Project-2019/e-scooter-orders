@@ -6,6 +6,6 @@ WORKDIR /app
 
 ADD ./api/target/e-scooter-orders-api-1.0-SNAPSHOT.jar /app
 
-EXPOSE 8081
+EXPOSE 8086
 
 CMD ["java", "-jar", "e-scooter-orders-api-1.0-SNAPSHOT.jar"]
